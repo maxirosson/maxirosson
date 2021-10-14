@@ -6,6 +6,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to organize your debug and release Android code](https://blog.dipien.com/how-to-organize-your-debug-and-release-android-code-255d7459521b?source=rss----37b2d1091422---4)
+- [How to automate your dependencies upgrades with GitHub Actions](https://blog.dipien.com/how-to-automate-your-dependencies-upgrades-with-github-actions-bedf1337ca3f?source=rss----37b2d1091422---4)
+- [Releases Hub Gradle Plugin v3.0.0](https://blog.dipien.com/releases-hub-gradle-plugin-v3-0-0-a27c18798d81?source=rss----37b2d1091422---4)
+- [5 amazing Gradle Plugins for Android apps](https://blog.dipien.com/10-amazing-gradle-plugins-for-android-apps-b69ec356684d?source=rss----37b2d1091422---4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
