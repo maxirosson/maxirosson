@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [dipien](https://github.com/dipien)
 - 📫 Reach me at maxi@dipien.com
 
-### Latest Blogs posts
+### Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to organize your debug and release Android code](https://blog.dipien.com/how-to-organize-your-debug-and-release-android-code-255d7459521b?source=rss----37b2d1091422---4)
 - [How to automate your dependencies upgrades with GitHub Actions](https://blog.dipien.com/how-to-automate-your-dependencies-upgrades-with-github-actions-bedf1337ca3f?source=rss----37b2d1091422---4)
