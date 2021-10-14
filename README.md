@@ -10,6 +10,8 @@
 - [How to automate your dependencies upgrades with GitHub Actions](https://blog.dipien.com/how-to-automate-your-dependencies-upgrades-with-github-actions-bedf1337ca3f?source=rss----37b2d1091422---4)
 - [Releases Hub Gradle Plugin v3.0.0](https://blog.dipien.com/releases-hub-gradle-plugin-v3-0-0-a27c18798d81?source=rss----37b2d1091422---4)
 - [5 amazing Gradle Plugins for Android apps](https://blog.dipien.com/10-amazing-gradle-plugins-for-android-apps-b69ec356684d?source=rss----37b2d1091422---4)
+- [Firebase Remote Config: in-app default parameter values](https://blog.dipien.com/firebase-remote-config-in-app-default-parameter-values-15c933c86fc?source=rss----37b2d1091422---4)
+- [Add useful labels to your Pull Requests with Github Actions](https://blog.dipien.com/add-useful-labels-to-your-pull-requests-with-github-actions-33c3f8ca59b2?source=rss----37b2d1091422---4)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
