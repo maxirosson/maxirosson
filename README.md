@@ -17,18 +17,18 @@
 - [Add useful labels to your Pull Requests with Github Actions](https://blog.dipien.com/add-useful-labels-to-your-pull-requests-with-github-actions-33c3f8ca59b2?source=rss----37b2d1091422---4)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me
 <p align="left">
 <a href="https://twitter.com/maxirosson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@maxirosson" height="30" width="40" /></a>
 <a href="https://medium.com/@maxirosson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@maxirosson" height="30" width="40" /></a>
 </p>
 
-
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
 <p align="left"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=maxirosson&layout=compact alt=maxirosson /> </p>
 
+### Stats
 <p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=maxirosson&show_icons=true alt=maxirosson /> </p>
 
 
