@@ -4,7 +4,7 @@
 
 ### About me
 - 📝 I regularly write articles on [blog.dipien.com](blog.dipien.com)
-- 👨‍💻 All of my projects are available at [dipien](https://github.com/dipien)
+- 👨‍💻 All of my projects are available at [github.dipien.com](github.dipien.com)
 - 📫 Reach me at maxi@dipien.com
 
 ### Latest Blog posts
