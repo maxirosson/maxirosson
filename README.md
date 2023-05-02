@@ -3,8 +3,8 @@
 <h3 align="center">Developer Productivity Engineer | Android Developer</h3>
 
 ### About me
-- 📝 I regularly write articles on [blog.dipien.com](https://blog.dipien.com)
-- 👨‍💻 All of my projects are available at [github.dipien.com](https://github.dipien.com)
+- 📝 I regularly write articles on [blog.dipien.com](https://blog.dipien.com) and [blog.thebitcoinhole.com](https://blog.thebitcoinhole.com/)
+- 👨‍💻 All of my projects are available at [github.dipien.com](https://github.dipien.com) and [github.com/thebitcoinhole](https://github.com/thebitcoinhole/)
 - 📫 Reach me at maxi@dipien.com
 
 ### Latest Blog posts
