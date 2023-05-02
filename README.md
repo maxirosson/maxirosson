@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maxi Rosson</h1> 
 
-<h3 align="center">Developer Productivity Engineer | Android Developer</h3>
+<h3 align="center">Developer Productivity Engineer | Android Developer | Bitcoiner</h3>
 
 ### About me
 - 📝 I regularly write articles on [blog.dipien.com](https://blog.dipien.com) and [blog.thebitcoinhole.com](https://blog.thebitcoinhole.com/)
