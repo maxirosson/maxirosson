@@ -35,9 +35,9 @@
 
 ### Sponsor me
 
-* [Donate with Bitcoin Lightning](http://alby.dipien.com)
+* [Donate with Bitcoin Lightning](https://getalby.com/p/maxirosson) ⚡️ [maxirosson@getalby.com](https://getalby.com/p/maxirosson)
 * [Donate cryptocurrency](http://coinbase.dipien.com/)
-* [Donate with PayPal](http://paypal.dipien.com/)
+* [Donate with credit card](https://ko-fi.com/maxirosson)
 * [Donate on Patreon](http://patreon.dipien.com/)
 * [Become a member of Medium](https://maxirosson.medium.com/membership) [I will receive a portion of your membership fee]
 
