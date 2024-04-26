@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Maxi Rosson</h1> 
 
-<h3 align="center">Developer Productivity Engineer | Android Developer | Bitcoiner</h3>
+<h3 align="center">Developer Productivity Engineer | Android Developer</h3>
 
 ### About me
-- 📝 I regularly write articles on [blog.dipien.com](https://blog.dipien.com) and [blog.thebitcoinhole.com](https://blog.thebitcoinhole.com/)
-- 👨‍💻 All of my projects are available at [github.dipien.com](https://github.dipien.com) and [github.com/thebitcoinhole](https://github.com/thebitcoinhole/)
+- 📝 I regularly write articles on [blog.dipien.com](https://blog.dipien.com)
+- 👨‍💻 All of my projects are available at [github.dipien.com](https://github.dipien.com)
 - 📫 Reach me at maxi@dipien.com
 
 ### Latest Dipien Blog posts
@@ -17,16 +17,6 @@
 - [10 ideas to reduce your APK size [Part I]](https://blog.dipien.com/10-ideas-to-reduce-your-apk-size-part-i-e6f8bca96475?source=rss----37b2d1091422---4)
 <!-- DIPIEN-BLOG-POST-LIST:END -->
 
-### Latest The Bitcoin Hole Blog posts
-<!-- BITCOIN-BLOG-POST-LIST:START -->
-- [Comparing Hardware Wallets](https://medium.com/the-bitcoin-hole/comparing-hardware-wallets-cc77c41b80a1?source=rss----154fb07103ce---4)
-- [Comparing Bitcoin Software Wallets](https://medium.com/the-bitcoin-hole/comparing-bitcoin-software-wallets-6d8b2a444d19?source=rss----154fb07103ce---4)
-- [False myths about Bitcoin](https://medium.com/the-bitcoin-hole/false-myths-about-bitcoin-883832e7de91?source=rss----154fb07103ce---4)
-- [10 Tools and Security Tips to help you stay safe online](https://medium.com/the-bitcoin-hole/10-tools-and-security-tips-to-help-you-stay-safe-online-2e651b52f785?source=rss----154fb07103ce---4)
-- [When do you need to replace your Bitcoin keys?](https://medium.com/the-bitcoin-hole/when-do-you-need-to-replace-your-bitcoin-keys-5a0a2fa306c6?source=rss----154fb07103ce---4)
-- [Is memorizing your seed phrase a good idea?](https://medium.com/the-bitcoin-hole/is-memorizing-your-seed-phrase-a-good-idea-676a09bc9cfb?source=rss----154fb07103ce---4)
-<!-- BITCOIN-BLOG-POST-LIST:END -->
-
 ### Contact me
 <p align="left">
 <a href="https://twitter.com/maxirosson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@maxirosson" height="30" width="40" /></a>
@@ -35,7 +25,7 @@
 
 ### Sponsor me
 
-* [Donate with Bitcoin Lightning](https://getalby.com/p/maxirosson) ⚡️ [maxirosson@getalby.com](https://getalby.com/p/maxirosson)
+* [Donate with Bitcoin Lightning](https://getalby.com/p/dipien) ⚡️ [maxirosson@getalby.com](https://getalby.com/p/dipien)
 * [Donate cryptocurrency](http://coinbase.dipien.com/)
 * [Donate with credit card](https://ko-fi.com/maxirosson)
 * [Donate on Patreon](http://patreon.dipien.com/)
