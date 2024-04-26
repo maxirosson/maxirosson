@@ -25,7 +25,7 @@
 
 ### Sponsor me
 
-* [Donate with Bitcoin Lightning](https://getalby.com/p/dipien) ⚡️ [maxirosson@getalby.com](https://getalby.com/p/dipien)
+* [Donate with Bitcoin Lightning](https://getalby.com/p/dipien) ⚡️ [dipien@getalby.com](https://getalby.com/p/dipien)
 * [Donate cryptocurrency](http://coinbase.dipien.com/)
 * [Donate with credit card](https://ko-fi.com/maxirosson)
 * [Donate on Patreon](http://patreon.dipien.com/)
